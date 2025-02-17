@@ -5,6 +5,9 @@
   <img src="https://logowik.com/content/uploads/images/flask3998.jpg" height="60">
 </p>
 
+Contributors - <a href="https://github.com/user-pratik">Pratik Anand</a>
+               <a href="https://github.com/anshikkumartiwari">Anshik Kumar Tiwari</a>
+               <a href="">Yash Sharma</a>
 
 ### Multi-file Format Automatic Redaction Tool
 
@@ -93,7 +96,7 @@ cd re-dact-tool
 2. Install dependencies:
 
 bash
-pip install -r requirements.txt (will be available soon)
+pip install -r requirements.txt 
 
 
 3. Run the application:
