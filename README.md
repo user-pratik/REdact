@@ -6,9 +6,9 @@
 </p>
 
 Contributors - 
-<pre><a href="https://github.com/user-pratik">Pratik Anand</a><br>
-<pre><a href="https://github.com/anshikkumartiwari">Anshik Kumar Tiwari</a><br>
-<pre><a href="">Yash Sharma</a><br>
+<a href="https://github.com/user-pratik">      Pratik Anand</a><br>
+<a href="https://github.com/anshikkumartiwari">       Anshik Kumar Tiwari</a><br>
+<a href="">       Yash Sharma</a><br>
 
 ### Multi-file Format Automatic Redaction Tool
 
